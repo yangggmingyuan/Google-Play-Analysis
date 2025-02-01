@@ -20,7 +20,7 @@ The dataset used for this analysis is **gps.csv**, which contains data on variou
 - 🚀 Analyzed the distribution of apps across different categories.
 - 📈 Visualized the most popular app categories by installations.
 - 🔍 Identified trends and patterns related to app ratings and performance.
-- 🎮 Investigated the top apps in the most popular categories.
+- 🎮 Investigated the top apps in the most popular categories.  and also can do changes
 - 💡 Explored correlations between ratings, reviews, and number of installs.
 
 ## Visualizations 📊
