@@ -1,9 +1,9 @@
-# Google Play Store  Data Analysis 📱📊
+# Google Play Data Analysis 📱📊
 
 ## Overview
 This project analyzes the Google Play Store dataset to uncover insights about app categories, installations, ratings, and more. Using Python and Jupyter Notebook, this analysis utilizes libraries such as Pandas, Seaborn, and Matplotlib to process and visualize the data.
 
-The analysis is presented in the **Play_Store Analysis.ipynb** notebook, where you can follow along with the code and explore the visualizations.
+The analysis is presented in the **[Play_Store Analysis.ipynb](Play_Store%20Analysis.ipynb)** notebook, where you can follow along with the code and explore the visualizations.
 
 ## Key Insights
 - 🚀 Analyzed the distribution of apps across different categories.
@@ -18,7 +18,7 @@ This project includes the following types of visualizations:
 
 ## Technologies Used
 - 🐍 **Python** (Pandas, Matplotlib, Seaborn)
-- 📓 **Jupyter Notebook** (The analysis is available in the `Play_Store Analysis .ipynb` notebook)
+- 📓 **Jupyter Notebook** (The analysis is available in the **[Play_Store Analysis.ipynb](Play_Store%20Analysis.ipynb)** notebook)
 
 ## Dataset
 The dataset used for this analysis contains various features, such as:
