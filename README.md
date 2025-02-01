@@ -18,7 +18,7 @@ This project includes the following types of visualizations:
 
 ## Technologies Used
 - 🐍 **Python** (Pandas, Matplotlib, Seaborn)
-- 📓 **Jupyter Notebook** (The analysis is available in the `Play_Store Analysis.ipynb` notebook)
+- 📓 **Jupyter Notebook** (The analysis is available in the `Play_Store Analysis .ipynb` notebook)
 
 ## Dataset
 The dataset used for this analysis contains various features, such as:
